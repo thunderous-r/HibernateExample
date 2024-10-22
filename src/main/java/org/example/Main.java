@@ -1,11 +1,8 @@
 package org.example;
 
 import org.example.config.SessionFactoryConfig;
-import org.example.entity.Car;
 import org.example.entity.Human;
 import org.hibernate.SessionFactory;
-
-import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
