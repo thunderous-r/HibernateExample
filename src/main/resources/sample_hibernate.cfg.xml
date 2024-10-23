@@ -21,6 +21,10 @@
         <mapping class="org.example.entity.Human"></mapping>
         <mapping class="org.example.entity.Car"></mapping>
         <mapping class="org.example.entity.mapped.Product"></mapping>
+        <mapping class="org.example.entity.single.Vehicle"></mapping>
+        <mapping class="org.example.entity.single.SingleTableCar"></mapping>
+        <mapping class="org.example.entity.single.Motorbike"></mapping>
+        <mapping class="org.example.entity.single.Truck"></mapping>
 
     </session-factory>
 </hibernate-configuration>
